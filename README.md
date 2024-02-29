@@ -9,3 +9,4 @@ Yicheng Xiao<sup>1*</sup>, Yue Ma<sup>1*</sup>, Shuyan Li<sup>1</sup>, Hantao Zh
 ## :open_file_folder: Datasets
 Download the dataset(s) from corresponding links below.
  - ESC-50: [BaiduNetDisk](https://pan.baidu.com/s/1bPz0w1m-CQ0KiZ-2mFVj-w?pwd=t25x)
+ - US8K: [BaiduNetDisk](https://pan.baidu.com/s/1b9NKKtxo_zHpie5knmH6uQ?pwd=2x46)
